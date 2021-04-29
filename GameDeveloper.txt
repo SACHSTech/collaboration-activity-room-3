@@ -17,17 +17,17 @@ Proficiency in using Flash (classes, interfaces, inheritance) and ActionScript 2
 Knowledge of PHP and Social Media Applications
 High level of passion for games
 
-PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 Senior Game Developer, January 2007- Present
 New Digital Media, San Francisco, CA
 
-Responsibilities
-Created and developed interactive game content.
-Collaborated and coordinated with producers to brainstorm regarding game projects.
-Conceptualized and conceived projects.
-Provided and rendered solutions for clients.
-Programmed and planned the project according to the functional spec and close to the design directions.
+## Responsibilities
+* Created and developed interactive game content.
+* Collaborated and coordinated with producers to brainstorm regarding game projects.
+* Conceptualized and conceived projects.
+* Provided and rendered solutions for clients.
+* Programmed and planned the project according to the functional spec and close to the design directions.
 
 Game Developer- Intern, May 2004- December 2006
 Trion World Network Inc., Redwood Shores, CA
