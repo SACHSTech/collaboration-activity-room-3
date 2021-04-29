@@ -4,13 +4,16 @@ Complete your formatted designated resume here
 # Brian Swartwood
 
 496 Cedar Street
+
 Little Rock, AR 72210
+
 (222)-708-8600
+
 b.swartwood@tmail.com
 
 ### OBJECTIVE
 
-To secure a position as a Game Developer in a fast growing gaming industry that creates and develops high tech games where skills and expertise can maximize potential growth.
+* To secure a position as a Game Developer in a fast growing gaming industry that creates and develops high tech games where skills and expertise can maximize potential growth.
 
 ### SUMMARY OF QUALIFICATIONS
 
